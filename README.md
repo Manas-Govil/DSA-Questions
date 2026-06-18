@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manas-Govil/DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manas-Govil/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manas-Govil/DSA-Java/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manas-Govil/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Manas-Govil/DSA-Java/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Manas-Govil/DSA-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manas-Govil/DSA-Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manas-Govil/DSA-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manas-Govil/DSA-Java/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manas-Govil/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
